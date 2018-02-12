@@ -8,11 +8,12 @@ body {
 h1 p { 
 	font-weight: bold;
 	text-align: center;
+	font-size: 100px;
  }
 #slogan {
 	font-style: italic;
 	text-align: left;
-	font-size: 150px;
+	font-size: 52px;
 }
 ul li {
 	text-decoration: underline;
