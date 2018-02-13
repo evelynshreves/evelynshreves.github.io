@@ -1,6 +1,7 @@
 body {
 	background-image: url("https://blog.strava.com/wp-content/uploads/2014/03/BDJ_2346-2000-1.jpg");
 	background-size: cover;
+	opacity: 0.2;
 	text-align: center;
 	font-family: "Helvetica Neue", sans-serif;
 	color: #000;
