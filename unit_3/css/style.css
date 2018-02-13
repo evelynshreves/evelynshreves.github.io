@@ -1,7 +1,6 @@
 body {
-	background-image: url("https://blog.strava.com/wp-content/uploads/2014/03/BDJ_2346-2000-1.jpg");
+	background-image: url("https://blog.strava.com/wp-content/uploads/2014/03/BDJ_2346-2000-1.jpg") opacity: 0.2;
 	background-size: cover;
-	opacity: 0.2;
 	text-align: center;
 	font-family: "Helvetica Neue", sans-serif;
 	color: #000;
@@ -18,14 +17,14 @@ h1 p {
 }
 ul li {
 	text-decoration: underline;
-	text-align: left;
+	text-align: left center;
 	list-style-type: none;
 }
 hr {
 	width: 200px;
 }
 #contact {
-	text-align: center;
+	text-align: center bottom;
 	font-variant: small-caps;
 	font-weight: bold;
 }
