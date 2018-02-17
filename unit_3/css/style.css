@@ -1,9 +1,13 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
 body {
-	background-image: url("https://blog.strava.com/wp-content/uploads/2014/03/BDJ_2346-2000-1.jpg");
 	background-size: cover;
 	text-align: center;
 	font-family: "Helvetica Neue", sans-serif;
-	color: #000;
+	color: #3A5766;
 }
 h1 p { 
 	font-weight: bold;
@@ -12,7 +16,7 @@ h1 p {
  }
 #slogan {
 	font-style: italic;
-	text-align: left;
+	text-align: center;
 	font-size: 42px;
 }
 ul li {
