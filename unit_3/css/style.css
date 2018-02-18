@@ -25,15 +25,12 @@ h1 p {
 #slogan {
 	font-style: italic;
 	text-align: center;
-	font-size: 42px;
+	font-size: 32px;
 }
 ul li {
-	text-decoration: underline;
+	text-decoration: bold;
 	vertical-align: middle;
 	list-style-type: none;
-}
-hr {
-	width: 200px;
 }
 #contact {
 	vertical-align: bottom;
